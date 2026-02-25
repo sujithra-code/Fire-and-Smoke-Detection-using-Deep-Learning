@@ -46,8 +46,3 @@ python app.py
 Make sure `best.pt` is present in the project folder.
 
 ---
-
-
-
-Sujithra  
-MCA – Deep 
