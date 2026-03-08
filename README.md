@@ -1,8 +1,8 @@
 #  Fire & Smoke Detection Using YOLOv8
 
 ## Overview
--
- This project implements a **Fire and Smoke Detection using Deep Learning**. The system uses the YOLOv8 object detection model to detect fire from images and live camera footage. OpenCV is used to capture and process frames, and the model identifies fire regions in real time. When fire is detected, the system triggers an alarm and sends email and SMS alerts. The interface was implemented using Python with Tkinter and Flask.
+
+- This project implements a **Fire and Smoke Detection using Deep Learning**. The system uses the YOLOv8 object detection model to detect fire from images and live camera footage. OpenCV is used to capture and process frames, and the model identifies fire regions in real time. When fire is detected, the system triggers an alarm and sends email and SMS alerts. The interface was implemented using Python with Tkinter and Flask.
 ---
 
 ##  Model Details
