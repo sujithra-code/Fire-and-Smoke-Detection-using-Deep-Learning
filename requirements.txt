@@ -1,7 +1,8 @@
-ultralytics
+Python
+YOLOv8(ultralytics)
 PyTorch (torch)
 opencv-python
 flask
+Tkinter
 mysql-connector-python
 numpy
-
