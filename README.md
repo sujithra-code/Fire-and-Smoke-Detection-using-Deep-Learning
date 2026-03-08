@@ -24,7 +24,7 @@
 - OpenCV  
 - NumPy  
 - Flask  
-
+- MySQL
 ---
 
 ##  Installation
