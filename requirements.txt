@@ -1,8 +1,6 @@
 ultralytics
 torch
-torchvision
 opencv-python
 flask
 mysql-connector-python
-pillow
 numpy
